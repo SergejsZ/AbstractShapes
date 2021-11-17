@@ -23,6 +23,9 @@ public class App
         //TODO
         // implement the Rectangle class (see skeleton Rectangle class).
         // instantiate a Rectangle object r1, and output its details.
+        System.out.println("----------------------");
+        Rectangle r1 = new Rectangle(1,2,3,4);
+        System.out.println(r1.toString());
 
         //TODO
         // create an ArrayList and populate it with two Circles and two Rectangles.
